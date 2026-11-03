@@ -1,6 +1,12 @@
 
 import math
 
+# Exercicio 2: le 3 valores inteiros e positivos e verifica se formam um triangulo.
+# Se formarem, calcula a area 
+# Se nao formarem, escreve os valores lidos.
+
+
+
 
 def forma_triangulo(a, b, c):
     # O maior lado precisa ser menor que a soma dos outros dois.
